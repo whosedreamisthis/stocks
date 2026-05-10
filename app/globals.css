@@ -134,7 +134,7 @@
 
 @layer base {
   * {
-    @apply border-border outline-ring/50;
+    @apply border-none outline-none;
   }
   body {
     @apply bg-gray-900 text-foreground;
